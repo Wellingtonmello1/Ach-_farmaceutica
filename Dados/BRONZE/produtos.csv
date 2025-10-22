@@ -1,0 +1,61 @@
+id,nome_produto,categoria,preco_unitario,fabricante
+1,Dipirona Sódica,Vitaminas,110.02,Pfizer
+2,Paracetamol,Analgésico,48.01,EMS
+3,Ibuprofeno,Antibiótico,123.15,Neo Química
+4,Amoxicilina,Anti-inflamatório,59.56,Aché
+5,Azitromicina,Vacinas,85.72,Bayer
+6,Cetoprofeno,Vitaminas,208.98,Aché
+7,Omeprazol,Vitaminas,206.57,Eurofarma
+8,Pantoprazol,Vacinas,228.36,EMS
+9,Loratadina,Dermocosmético,155.22,Pfizer
+10,Prednisona,Vacinas,34.83,Bayer
+11,Simeticona,Vitaminas,155.06,Neo Química
+12,Losartana,Vitaminas,211.11,Aché
+13,Sinvastatina,Vitaminas,85.21,EMS
+14,Atorvastatina,Anti-inflamatório,195.47,Neo Química
+15,Metformina,Anti-inflamatório,46.0,Aché
+16,Insulina NPH,Anti-inflamatório,175.6,Pfizer
+17,Insulina Regular,Anti-inflamatório,299.11,EMS
+18,Gliclazida,Antibiótico,74.99,EMS
+19,Clonazepam,Analgésico,297.72,Aché
+20,Diazepam,Anti-inflamatório,185.92,Aché
+21,Sertralina,Analgésico,240.47,Neo Química
+22,Fluoxetina,Antibiótico,94.38,EMS
+23,Escitalopram,Dermocosmético,94.79,EMS
+24,Bupropiona,Anti-inflamatório,79.08,Neo Química
+25,Rivotril,Anti-inflamatório,123.28,Aché
+26,Torsilax,Analgésico,156.75,Pfizer
+27,Dorflex,Antibiótico,15.74,Eurofarma
+28,Neosaldina,Anti-inflamatório,275.03,Eurofarma
+29,Buscopan,Vitaminas,162.8,Aché
+30,Dramin,Analgésico,44.8,Pfizer
+31,Engov,Analgésico,172.76,EMS
+32,Benegrip,Antibiótico,43.65,Bayer
+33,Xarelto,Anti-inflamatório,73.45,EMS
+34,Eliquis,Analgésico,260.89,Eurofarma
+35,Apixabana,Vitaminas,63.12,Aché
+36,Clexane,Antibiótico,238.27,Pfizer
+37,Advil,Analgésico,259.62,Bayer
+38,Tylenol,Anti-inflamatório,166.34,Aché
+39,Aspirina,Anti-inflamatório,101.68,Neo Química
+40,Nimesulida,Dermocosmético,88.71,Bayer
+41,Lisinopril,Dermocosmético,262.01,EMS
+42,Captopril,Vacinas,106.45,EMS
+43,Enalapril,Analgésico,44.29,Eurofarma
+44,Propranolol,Anti-inflamatório,187.15,Eurofarma
+45,Atenolol,Anti-inflamatório,143.32,Aché
+46,Lorazepam,Anti-inflamatório,115.33,Aché
+47,Zolpidem,Anti-inflamatório,269.29,Pfizer
+48,Melatonina,Analgésico,228.08,Pfizer
+49,Cetirizina,Vitaminas,153.63,EMS
+50,Allegra,Vitaminas,140.98,Neo Química
+51,Furosemida,Vitaminas,29.77,Bayer
+52,Hidroclorotiazida,Antibiótico,76.84,Aché
+53,Cefalexina,Analgésico,189.91,Aché
+54,Ceftriaxona,Anti-inflamatório,199.73,Bayer
+55,Dexametasona,Anti-inflamatório,185.19,EMS
+56,Diclofenaco,Anti-inflamatório,94.54,Bayer
+57,Polaramine,Dermocosmético,125.27,Pfizer
+58,Buscopan Composto,Anti-inflamatório,37.41,EMS
+59,Ranitidina,Vacinas,136.78,Bayer
+60,Suplemento Vitamínico,Antibiótico,30.42,Eurofarma

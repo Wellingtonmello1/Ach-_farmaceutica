@@ -1,0 +1,161 @@
+
+📊 Objetivo: entender e explorar os dados brutos.
+
+🔹 Demanda 1 — Panorama geral das vendas
+
+Gere um relatório com:
+
+
+
+            Faturamento total por mês
+            
+            Quantidade total de produtos vendidos por mês
+            
+            Top 5 produtos mais vendidos
+            
+            Top 5 clientes com maior volume de compras
+
+Dica: use os arquivos
+
+vendas.csv
+
+produtos.csv
+
+clientes.csv
+
+📈 Resultado esperado: gráfico de linha mensal + tabela resumo dos top 5.
+
+
+
+                                                                                                            --------//---------
+
+
+
+🔹 Demanda 2 — Desempenho de representantes comerciais
+
+Calcule:
+
+Faturamento total por representante
+
+Meta mensal média de cada um
+
+Percentual de atingimento da meta
+
+Dica: relacione vendas.representante_id com representantes.id
+
+📊 Resultado: tabela e ranking dos 10 melhores representantes.
+
+
+                                                                                                            --------//---------
+
+
+🔹 Demanda 3 — Estoque e giro de produtos
+
+Encontre:
+
+Produtos com menor quantidade em estoque
+
+Média de vendas mensais por produto
+
+Estime quantos dias de estoque restam considerando a média de vendas
+
+Dica: use estoques.csv + vendas.csv.
+
+📉 Insight esperado: identifique produtos com risco de ruptura.
+
+
+
+
+
+
+
+📈 Demandas — Fase 2 (nível pleno)
+
+🧩 Objetivo: cruzar áreas diferentes (marketing, médicos, pacientes).
+
+
+                                                                                                            --------//---------
+
+
+🔹 Demanda 4 — Impacto de campanhas de marketing
+
+Compare o faturamento de produtos antes e depois das campanhas.
+Avalie se o investimento trouxe retorno (ROI positivo).
+
+Dica: use:
+
+campanhas_marketing.csv
+
+vendas.csv
+
+📊 Resultado: tabela com investimento, retorno e ROI.
+  
+
+
+                                                                                                            --------//---------
+
+
+🔹 Demanda 5 — Padrões de prescrição médica
+
+Analise:
+
+Quais especialidades médicas mais prescrevem medicamentos.
+
+Quais produtos são mais prescritos por especialidade.
+
+Médicos com maior número de prescrições.
+
+Dica: prescricoes.csv + medicos.csv + produtos.csv
+
+📊 Insight: identificar oportunidades comerciais (onde focar o marketing).
+
+
+                                                                                                            --------//---------
+
+🧠 Demandas — Fase 3 (nível sênior / big data)
+
+🚀 Objetivo: integrar, prever e automatizar.
+
+
+                                                                                                            --------//---------
+
+
+🔹 Demanda 6 — Previsão de demanda
+
+Use o histórico de vendas (vendas.csv) para prever a demanda dos próximos 3 meses por produto ou categoria.
+
+Dica: modelo de regressão simples (pandas + scikit-learn).
+
+
+                                                                                                            --------//---------
+
+
+🔹 Demanda 7 — Clusterização de clientes
+
+Agrupe clientes por comportamento de compra:
+
+Valor total gasto
+
+Frequência de compra
+
+Categoria predominante de produto comprado
+
+Dica: aplique K-Means com clientes.csv + vendas.csv.
+
+🎯 Insight: segmentar clientes para campanhas específicas.
+
+
+                                                                                                            --------//---------
+
+
+🔹 Demanda 8 — Monitoramento contínuo (ETL)
+
+Crie um pipeline ETL em Python que:
+
+Leia todos os CSVs de /data/raw/
+
+Faça limpeza, merges e cálculos básicos
+
+Gere tabelas analíticas em /data/processed/
+
+Objetivo: preparar os dados automaticamente para dashboards.

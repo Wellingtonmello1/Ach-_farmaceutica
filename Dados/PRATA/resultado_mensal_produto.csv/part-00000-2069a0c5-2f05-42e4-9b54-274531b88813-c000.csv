@@ -1,0 +1,61 @@
+id_produto,nome_produto,total_vendido,mes
+29,Buscopan,4,mes_1
+25,Rivotril,40,mes_1
+21,Sertralina,29,mes_1
+19,Clonazepam,29,mes_1
+23,Escitalopram,47,mes_1
+18,Gliclazida,45,mes_10
+13,Sinvastatina,29,mes_10
+55,Dexametasona,39,mes_10
+48,Melatonina,50,mes_10
+40,Nimesulida,10,mes_10
+7,Omeprazol,7,mes_11
+4,Amoxicilina,35,mes_11
+56,Diclofenaco,10,mes_11
+1,Dipirona Sódica,28,mes_11
+37,Advil,44,mes_11
+20,Diazepam,23,mes_12
+49,Cetirizina,42,mes_12
+33,Xarelto,26,mes_2
+30,Dramin,5,mes_2
+14,Atorvastatina,39,mes_2
+24,Bupropiona,23,mes_2
+31,Engov,43,mes_2
+54,Ceftriaxona,3,mes_2
+60,Suplemento Vitamínico,24,mes_2
+16,Insulina NPH,28,mes_2
+38,Tylenol,11,mes_3
+28,Neosaldina,41,mes_3
+8,Pantoprazol,6,mes_4
+36,Clexane,48,mes_4
+44,Propranolol,3,mes_4
+34,Eliquis,24,mes_4
+22,Fluoxetina,3,mes_4
+9,Loratadina,21,mes_4
+2,Paracetamol,39,mes_4
+58,Buscopan Composto,29,mes_5
+3,Ibuprofeno,12,mes_5
+17,Insulina Regular,11,mes_5
+32,Benegrip,41,mes_5
+12,Losartana,20,mes_5
+59,Ranitidina,24,mes_5
+26,Torsilax,28,mes_5
+47,Zolpidem,16,mes_6
+43,Enalapril,29,mes_6
+10,Prednisona,43,mes_6
+39,Aspirina,2,mes_6
+6,Cetoprofeno,21,mes_6
+15,Metformina,46,mes_6
+46,Lorazepam,5,mes_6
+50,Allegra,24,mes_7
+45,Atenolol,9,mes_7
+53,Cefalexina,37,mes_8
+51,Furosemida,24,mes_8
+11,Simeticona,19,mes_8
+5,Azitromicina,19,mes_9
+41,Lisinopril,39,mes_9
+52,Hidroclorotiazida,25,mes_9
+27,Dorflex,18,mes_9
+57,Polaramine,44,mes_9
+35,Apixabana,33,mes_9
+42,Captopril,44,mes_9

@@ -1,0 +1,121 @@
+id,nome_medico,crm,especialidade
+1,Theo da Cunha,46822/AL,Dermatologia
+2,Dr. Davi Lucas Costa,17679/PB,Clínico Geral
+3,Dra. Júlia Gomes,71824/ES,Clínico Geral
+4,Fernando Azevedo,79393/MG,Ortopedia
+5,Eduarda Moura,56849/MG,Cardiologia
+6,Alexia Pereira,86544/BA,Dermatologia
+7,Elisa Lopes,40508/AM,Dermatologia
+8,Isaac Caldeira,30922/GO,Cardiologia
+9,Otávio Oliveira,23124/SC,Ortopedia
+10,Laís Carvalho,42487/SE,Cardiologia
+11,Natália Dias,96096/DF,Cardiologia
+12,Mirella Silva,41608/BA,Pediatria
+13,Benjamin Pereira,44934/BA,Pediatria
+14,Esther Cardoso,79951/SE,Ortopedia
+15,Sra. Helena Lima,17328/MA,Pediatria
+16,Miguel Ramos,38758/RN,Clínico Geral
+17,Sofia Vieira,85457/MT,Pediatria
+18,Ana Vitória Moreira,60911/PA,Pediatria
+19,Evelyn Oliveira,56504/MT,Pediatria
+20,Pedro Ramos,32768/PI,Dermatologia
+21,Helena Ramos,33081/AP,Ginecologia
+22,Danilo Gonçalves,41005/AP,Pediatria
+23,Maria Fernanda Nascimento,87662/SP,Cardiologia
+24,Yasmin Nascimento,51681/ES,Pediatria
+25,Leonardo Rocha,57026/MA,Ginecologia
+26,Evelyn Rodrigues,87537/ES,Ortopedia
+27,Caroline Moura,13697/BA,Ortopedia
+28,Benício da Rocha,56095/SE,Clínico Geral
+29,Maria Clara Sales,84403/AL,Clínico Geral
+30,Antônio Azevedo,83873/GO,Pediatria
+31,Laura Caldeira,28625/PA,Cardiologia
+32,Raquel Freitas,83807/SP,Cardiologia
+33,Gabriel Ribeiro,34672/SP,Dermatologia
+34,Ana Carolina Caldeira,74517/AP,Cardiologia
+35,Augusto Moreira,81057/PR,Dermatologia
+36,Maitê Gonçalves,50508/SE,Dermatologia
+37,Elisa Monteiro,33010/BA,Cardiologia
+38,Carolina da Costa,74282/RJ,Cardiologia
+39,Isabel Monteiro,14975/ES,Dermatologia
+40,Rafaela da Luz,21830/MT,Clínico Geral
+41,Pedro Lucas Pereira,17362/ES,Pediatria
+42,Srta. Sophie da Cruz,40490/SP,Clínico Geral
+43,Alexandre Lima,88861/SP,Ortopedia
+44,Luna da Luz,38679/TO,Cardiologia
+45,Luna Martins,12612/DF,Ginecologia
+46,Henrique Costa,79002/TO,Cardiologia
+47,Sr. João Guilherme Ferreira,72650/BA,Dermatologia
+48,Maria Clara Alves,10089/PR,Ginecologia
+49,Ana Luiza Moraes,53481/PI,Ginecologia
+50,Mariana Pereira,90495/SE,Pediatria
+51,Maria Vitória Araújo,36406/AP,Ortopedia
+52,Sra. Sarah Carvalho,27103/PA,Cardiologia
+53,Sr. Vitor Nunes,54663/AP,Pediatria
+54,Agatha Castro,33260/PE,Ortopedia
+55,Srta. Ana Laura Rocha,52413/RO,Clínico Geral
+56,Dr. João Pedro Oliveira,17806/MT,Ginecologia
+57,Elisa Aragão,12872/SC,Pediatria
+58,Sophie Rodrigues,29360/PB,Clínico Geral
+59,Larissa Cavalcanti,86888/CE,Cardiologia
+60,Davi Gomes,28566/PR,Cardiologia
+61,Srta. Sabrina Vieira,24538/RO,Dermatologia
+62,Danilo Moura,78982/RO,Clínico Geral
+63,Dra. Sabrina Azevedo,57826/RJ,Clínico Geral
+64,Sra. Luiza Dias,19506/BA,Pediatria
+65,Mariane Campos,58967/PA,Ortopedia
+66,Augusto Costa,96787/RS,Ginecologia
+67,Sofia Araújo,61851/RS,Ortopedia
+68,Leandro Vieira,86810/DF,Ortopedia
+69,Joaquim Gomes,23242/SP,Ginecologia
+70,Ana Julia Dias,54113/MG,Dermatologia
+71,Sarah da Rosa,49552/RN,Ortopedia
+72,Bruna Aragão,52284/MT,Dermatologia
+73,Olivia Novaes,27884/PI,Dermatologia
+74,Isabelly Teixeira,30644/PI,Clínico Geral
+75,Lavínia da Cunha,67261/RR,Cardiologia
+76,Eduardo Gonçalves,93789/PE,Cardiologia
+77,Luna Moreira,73858/PA,Pediatria
+78,Cauã da Costa,95089/RR,Ginecologia
+79,Maria Eduarda Alves,51586/AC,Ginecologia
+80,Ian Souza,32833/GO,Pediatria
+81,Erick da Mata,83659/PI,Clínico Geral
+82,Raul Viana,90440/RO,Cardiologia
+83,Daniela Moreira,56769/DF,Dermatologia
+84,Leonardo Rocha,39260/PR,Cardiologia
+85,Maria Vitória Martins,97232/TO,Pediatria
+86,João Gabriel da Mota,87194/PE,Cardiologia
+87,Sra. Gabriela Fernandes,32983/PE,Dermatologia
+88,Emanuel Nunes,59595/PB,Ortopedia
+89,Sra. Helena Cardoso,50215/SP,Ortopedia
+90,Marcelo da Luz,48602/BA,Ginecologia
+91,Fernanda Azevedo,26691/PI,Pediatria
+92,Luna Viana,33292/TO,Clínico Geral
+93,Luiza Pires,10235/MT,Cardiologia
+94,Emanuel Costela,85082/SE,Cardiologia
+95,Davi Luiz Gonçalves,61327/TO,Clínico Geral
+96,Alana da Costa,84381/SE,Clínico Geral
+97,Kamilly Freitas,14244/CE,Ortopedia
+98,Beatriz Pinto,33865/MT,Dermatologia
+99,Lucas Gabriel Dias,88956/DF,Cardiologia
+100,Yago Santos,51709/CE,Pediatria
+101,João Vitor da Rocha,90134/DF,Cardiologia
+102,Dr. Cauê Correia,38953/MT,Dermatologia
+103,Ana Julia da Cunha,93839/MS,Pediatria
+104,Dr. Cauê Nogueira,84127/SC,Pediatria
+105,Isadora da Rosa,23645/SC,Pediatria
+106,Bruna Santos,75035/PA,Ortopedia
+107,Bianca Lopes,28434/DF,Dermatologia
+108,Sr. Kevin Duarte,53406/RJ,Cardiologia
+109,Marina Nunes,20198/PI,Ortopedia
+110,Dr. Otávio Silva,41194/GO,Ginecologia
+111,Ana Carolina da Mata,55457/MS,Pediatria
+112,Thiago da Rosa,51879/GO,Clínico Geral
+113,Ana Vitória Duarte,32005/PI,Dermatologia
+114,Alice Jesus,93386/MT,Pediatria
+115,Augusto Lopes,21629/CE,Dermatologia
+116,Ana Júlia Viana,97821/PB,Clínico Geral
+117,Helena Caldeira,93768/BA,Pediatria
+118,Luiza Monteiro,54007/MT,Cardiologia
+119,Carlos Eduardo Fogaça,68540/MA,Dermatologia
+120,Danilo Pinto,11493/AL,Pediatria

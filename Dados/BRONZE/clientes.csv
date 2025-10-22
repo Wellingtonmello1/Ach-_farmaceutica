@@ -1,0 +1,101 @@
+id,nome_cliente,tipo,cidade,estado
+1,Jesus,Farmácia,Azevedo de Minas,TO
+2,Caldeira S.A.,Hospital,Santos de Minas,PR
+3,Pires,Farmácia,Pinto do Amparo,CE
+4,Nascimento,Clínica,da Luz,AP
+5,Moraes Ltda.,Farmácia,Teixeira,SP
+6,Almeida,Hospital,Alves,PR
+7,Ribeiro,Clínica,da Luz Paulista,PE
+8,Oliveira S/A,Hospital,Araújo,SC
+9,Fogaça,Farmácia,Aragão Verde,SC
+10,da Luz S/A,Clínica,da Rosa do Campo,ES
+11,Rodrigues - EI,Farmácia,Lopes de Minas,RN
+12,Pires,Clínica,Melo,ES
+13,Monteiro Rodrigues S/A,Clínica,Vieira,SE
+14,Jesus Ltda.,Clínica,Santos,RJ
+15,Moura,Hospital,Gomes da Mata,AM
+16,Nunes,Farmácia,Cavalcanti de da Paz,SC
+17,Fernandes,Hospital,da Paz,SC
+18,Campos - EI,Hospital,Cardoso Grande,GO
+19,Aragão,Farmácia,Ramos do Galho,MA
+20,Campos,Farmácia,Silveira,CE
+21,Nogueira Gomes S.A.,Farmácia,Sales,AP
+22,Ferreira Caldeira Ltda.,Clínica,da Cunha,ES
+23,da Cruz Duarte e Filhos,Hospital,Oliveira da Serra,RR
+24,Lopes da Rosa Ltda.,Hospital,Vieira da Prata,MA
+25,Santos,Hospital,Aragão,MA
+26,Cunha,Hospital,Oliveira da Praia,MS
+27,Correia Nascimento S.A.,Hospital,Freitas do Oeste,PB
+28,Farias,Clínica,Nunes Paulista,MA
+29,Cardoso Aragão S/A,Farmácia,Caldeira Paulista,AP
+30,Nunes S/A,Clínica,Porto de Pires,RS
+31,Dias,Clínica,Moraes do Galho,PE
+32,Silveira - ME,Clínica,Santos,MT
+33,da Costa,Farmácia,das Neves,SP
+34,Santos,Farmácia,Moreira,SC
+35,Santos,Hospital,Martins,SE
+36,Peixoto,Clínica,Fogaça de Porto,SE
+37,Cardoso Almeida e Filhos,Hospital,Nogueira,RR
+38,Gonçalves Teixeira Ltda.,Farmácia,da Luz,RO
+39,Silva,Farmácia,Teixeira,RJ
+40,Lima,Farmácia,Costela de Minas,SE
+41,Costa - ME,Farmácia,Cardoso,PA
+42,Moura,Clínica,Mendes das Flores,RN
+43,da Rosa,Hospital,Dias,PI
+44,Ferreira,Farmácia,Aragão do Galho,SC
+45,Nascimento - EI,Hospital,Peixoto Grande,SE
+46,da Conceição Teixeira S/A,Farmácia,Gomes,PR
+47,Teixeira Castro - EI,Hospital,Almeida,AL
+48,Pinto,Hospital,Aragão da Praia,RS
+49,Aragão Santos S.A.,Farmácia,Souza,TO
+50,Cardoso,Farmácia,Lima das Pedras,ES
+51,da Mata Santos S/A,Hospital,Caldeira da Mata,GO
+52,Pires,Clínica,da Paz de Peixoto,DF
+53,Fernandes Rodrigues - ME,Farmácia,Barros de Duarte,RO
+54,Azevedo - ME,Farmácia,Lopes,RS
+55,Cardoso Aragão e Filhos,Clínica,Freitas da Prata,RJ
+56,Viana Moreira S/A,Clínica,Oliveira das Pedras,RN
+57,Lima,Farmácia,Cardoso,TO
+58,Martins,Farmácia,Moura,CE
+59,Caldeira,Farmácia,Duarte,RN
+60,Ribeiro - ME,Farmácia,Peixoto,MA
+61,da Mota Souza - EI,Hospital,Silveira,MS
+62,da Mota da Cruz Ltda.,Hospital,Aragão Grande,MT
+63,da Rosa Ltda.,Hospital,Lima,MA
+64,Castro,Farmácia,Moreira,PA
+65,Cardoso,Hospital,Lima,RS
+66,Correia S.A.,Farmácia,Silva de Moraes,PA
+67,Mendes,Farmácia,Fernandes do Amparo,AM
+68,da Paz S.A.,Hospital,Barbosa de Minas,DF
+69,Nogueira,Farmácia,Gomes do Norte,SC
+70,Rodrigues Caldeira - EI,Hospital,Rodrigues,BA
+71,Silva,Hospital,Lopes,TO
+72,Fernandes S/A,Hospital,Costa,PR
+73,Carvalho - EI,Hospital,Araújo,CE
+74,da Cruz,Hospital,Aragão Paulista,GO
+75,da Mota,Clínica,Nascimento,RS
+76,da Cunha,Clínica,Rodrigues,RO
+77,Nogueira,Clínica,Fernandes da Praia,AP
+78,Rodrigues S.A.,Clínica,Oliveira,PR
+79,Novaes,Clínica,Souza de Lima,DF
+80,Caldeira S/A,Hospital,Mendes,PA
+81,Teixeira,Farmácia,da Cruz das Pedras,RN
+82,Fogaça,Farmácia,Silva,SP
+83,Alves Farias S.A.,Hospital,da Conceição,BA
+84,Alves,Farmácia,Gonçalves do Amparo,AL
+85,da Rosa,Farmácia,Caldeira da Prata,PA
+86,Araújo Mendes e Filhos,Clínica,Santos,SE
+87,Ribeiro,Clínica,Alves,ES
+88,Martins Ramos e Filhos,Clínica,Melo,PB
+89,Viana,Farmácia,Martins,PA
+90,Fogaça,Clínica,Alves,MT
+91,Aragão S.A.,Hospital,Sales do Sul,SC
+92,Nogueira S.A.,Farmácia,Cardoso Grande,AM
+93,Martins,Farmácia,Silva da Praia,RN
+94,Castro S.A.,Clínica,Nogueira,AC
+95,da Rocha Melo S.A.,Hospital,Vieira Grande,PB
+96,Jesus,Clínica,Souza,AL
+97,Teixeira,Clínica,da Cruz,PB
+98,Almeida - EI,Farmácia,Nogueira,SC
+99,Duarte,Farmácia,Rocha do Oeste,RS
+100,Gomes Ltda.,Clínica,Pires,MT
